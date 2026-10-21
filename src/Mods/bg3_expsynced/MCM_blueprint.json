@@ -1,0 +1,27 @@
+{
+  "SchemaVersion": 1,
+  "ModName": "EXP Synced",
+  "Tabs": [
+    {
+      "TabId": "sync",
+      "TabName": "Sync",
+      "Sections": [
+        {
+          "SectionId": "party_experience",
+          "SectionName": "Party experience",
+          "Settings": [
+            {
+              "Id": "sync_now",
+              "Name": "Sync party experience",
+              "Type": "event_button",
+              "Options": {
+                "Label": "Sync now"
+              },
+              "Description": "Raises the experience of every party member to the highest in the party. Nobody loses experience. Companions in camp and summons are not changed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

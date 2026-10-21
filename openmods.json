@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "EXP Synced",
+  "summary": "One click in the Mod Configuration Menu raises the experience of every party member to the highest in the party.",
+  "games": ["baldurs-gate-3"],
+  "tags": ["quality-of-life"],
+  "requires": ["Norbyte's Script Extender", "Mod Configuration Menu"],
+  "gameVersions": ["Patch 8"]
+}
