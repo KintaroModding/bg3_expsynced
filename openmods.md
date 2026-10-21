@@ -13,6 +13,10 @@ Party members who fell behind in experience catch up with one click:
   stay as they are.
 - The game then shows the level-up button as usual: you choose the level-up yourself.
 
+## Screenshots
+
+![EXP Synced cover](docs/cover.jpg)
+
 ## How to install
 
 1. Install [Norbyte's Script Extender](https://github.com/Norbyte/bg3se). It updates itself.
